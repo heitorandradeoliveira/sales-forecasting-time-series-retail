@@ -220,7 +220,20 @@ O modelo baseado em **Machine Learning** apresentou desempenho significativament
 
 ## 📌 Próximos Passos
 
-1. **Avaliar o desempenho com dados de validação (holdout)** , para confirmar a generalização do XGBoost.
-2. **Incluir variáveis externas** como clima, feriados locais e volume de promoções para enriquecer os modelos.
-3. **Implementar previsão automatizada semanal/mensal.**
-4. **Testar modelos híbridos** , combinando previsões lineares (SARIMA/Prophet) com machine learning (XGBoost/LightGBM) para maior robustez.
+- **Avaliar o desempenho com dados de validação (holdout)** , para confirmar a generalização do XGBoost.
+- **Incluir variáveis externas** como clima, feriados locais e volume de promoções para enriquecer os modelos.
+- **Testar modelos híbridos** , combinando previsões lineares (SARIMA/Prophet) com machine learning (XGBoost/LightGBM) para maior robustez.
+
+---
+
+### Licença
+
+Este projeto está sob a licença MIT - veja o arquivo [LICENSE](./LICENSE) para detalhes.
+
+---
+
+### Contato
+
+LinkedIn: [linkedin.com/in/heitorandradeoliveira](https://linkedin.com/in/heitorandradeoliveira)
+
+---
